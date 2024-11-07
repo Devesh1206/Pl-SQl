@@ -1,1 +1,2 @@
-# Pl-SQl
+# PL-SQl
+Car rental project
